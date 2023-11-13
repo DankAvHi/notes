@@ -1,9 +1,9 @@
 [submodule "clientMobile"]
 	path = clientMobile
-	url = .\\clientMobile\\
+	url = https://github.com/DankAvHi/clientMobile.git
 [submodule "client-web"]
 	path = client-web
-	url = .\\client-web\\
+	url = https://github.com/DankAvHi/client-web.git
 [submodule "server"]
 	path = server
-	url = .\\server\\
+	url = https://github.com/DankAvHi/server.git
