@@ -1,0 +1,9 @@
+[submodule "clientMobile"]
+	path = clientMobile
+	url = .\\clientMobile\\
+[submodule "client-web"]
+	path = client-web
+	url = .\\client-web\\
+[submodule "server"]
+	path = server
+	url = .\\server\\

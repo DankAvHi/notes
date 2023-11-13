@@ -1,0 +1,12 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "no."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
