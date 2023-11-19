@@ -49,5 +49,11 @@
             },
             "cwd": "${workspaceFolder}/notes-client-web"
         }
+    ],
+    "compounds": [
+        {
+            "name": "Debug whole project",
+            "configurations": ["Client Web Full", "Server", "Database"]
+        }
     ]
 }
