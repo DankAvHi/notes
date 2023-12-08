@@ -48,6 +48,13 @@
                 "action": "debugWithEdge"
             },
             "cwd": "${workspaceFolder}/notes-client-web"
+        },
+        {
+            "name": "Debug Android",
+            "cwd": "${workspaceFolder}/notes-clientMobile",
+            "type": "reactnative",
+            "request": "launch",
+            "platform": "android"
         }
     ],
     "compounds": [
